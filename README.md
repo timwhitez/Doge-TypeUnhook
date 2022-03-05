@@ -1,2 +1,2 @@
 # Doge-TypeUnhook
-type ntdll.dll for dll unhooking
+type ntdll.dll to unhooking
